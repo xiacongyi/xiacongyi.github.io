@@ -26,4 +26,5 @@ Summer 2019, my bicycle on the top of Sanmao Peak, Wuxi:
 In Hefei, up-left: getting ready to ride; up-right: our cycling club in the race; bottom-left: my bicycle at the school gate; bottom-right: a chicken guarding our bikes
 
 <img src="../files/riding/2.jpg" width="60%"/> <img src="../files/riding/3.jpg" width="35%"/>
+
 <img src="../files/riding/4.jpg" width="60%"/> <img src="../files/riding/7.jpg" width="35%"/>
