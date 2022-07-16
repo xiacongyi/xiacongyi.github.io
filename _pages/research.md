@@ -36,6 +36,8 @@ Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal c
 
 We virtually discussed this research with Prof. [Chi-Wang Shu](https://www.dam.brown.edu/people/shu/). Thanks for his discussion and advice.
 
+Report (in Chinese) preview: [here](../files/main.pdf).
+
 
 
 ## 2. Positivity-preserving conservative low rank methods for Vlasov dynamics
