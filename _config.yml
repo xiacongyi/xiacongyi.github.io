@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue Wu"
+title                    : "Yue Wu (吴越)"
 title_separator          : "-"
 name                     : &name "Yue Wu"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Yue Wu (吴越)"
   avatar           : "profile.png"
   bio              : "Undergraduate at University of Science and Technology of China (USTC)"
-  location         : "Hefei, Anhui, China"
+  location         : "Room 508, 2 Domitory Building, Central Campus, USTC, 96 Jinzhai Road, Hefei, Anhui Province, People's Republic of China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
