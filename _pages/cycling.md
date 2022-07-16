@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /miscellanea/
+permalink: /cycling/
 author_profile: true
 ---
 
