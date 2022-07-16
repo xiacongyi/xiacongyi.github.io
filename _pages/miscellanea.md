@@ -16,11 +16,14 @@ After one and a half year, one of my best cycling record came in April 2021, whe
 Here are some pictures.
 
 Summer 2019, regular practice by Taihu Lake with the local cycling club in Wuxi:
+
 <img src="../files/riding/1.jpg" width="67%"/> <img src="../files/riding/5.jpg" width="28%"/>
 
 Summer 2019, my bicycle on the top of Sanmao Peak, Wuxi:
+
 <img src="../files/riding/6.jpg" width="70%"/>
 
 In Hefei, up-left: getting ready to ride; up-right: our cycling club in the race; bottom-left: my bicycle at the school gate; bottom-right: a chicken guarding our bikes
+
 <img src="../files/riding/2.jpg" width="60%"/> <img src="../files/riding/3.jpg" width="35%"/>
 <img src="../files/riding/4.jpg" width="60%"/> <img src="../files/riding/7.jpg" width="35%"/>
