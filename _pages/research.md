@@ -32,7 +32,7 @@ The controlled nuclear fusion is one of the most prospective solution to the ene
 
 Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal component of the electric field) at time $T=7000$, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evlolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logrithmic growth rate very well.
 
-<img src="./cpt_14.png" width="50%"> <img src="./4energy.png" width="46%">
+<img src="../files/cpt_14.png" width="50%"> <img src="../files/4energy.png" width="46%">
 
 
 
