@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage!
-===
-
 This is **Yue Wu (吴越)**, a senior student at [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC), majoring in Computational Mathematics. 
-
 
 Research interests
 ---
