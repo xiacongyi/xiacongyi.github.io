@@ -17,6 +17,9 @@ main:
 
   - title: "Cycling"
     url: /cycling/
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/
     
   #- title: "Portfolio"
   #  url: /portfolio/
