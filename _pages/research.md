@@ -48,4 +48,4 @@ June 2022 --- present, Purdue U. (online)
 
 The high-dimensionality of Vlasov dynamics makes it expenive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem.
 
-We virtually discussed this research with Prof. [Jingmei Qiu](https://jingmeiqiu.github.io/). Thanks for her discussion and advice.
+We virtually discussed this research with Prof. [Jing-Mei Qiu](https://jingmeiqiu.github.io/). Thanks for her discussion and advice.
