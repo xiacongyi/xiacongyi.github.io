@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+
 # Research interets
 
 1. High-order numerical methods for PDEs:
@@ -24,7 +25,7 @@ author_profile: true
 
 *Undergraduate Research Program at USTC*
 
-Supervisor: Prof. [Mengping Zhang](https://www.researchgate.net/profile/Mengping-Zhang)
+Supervisor: Prof. [Mengping Zhang](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
 
 July 2021 --- May 2022, USTC
 
