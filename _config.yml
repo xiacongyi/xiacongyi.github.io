@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue Wu (吴越)"
+title                    : "Yue Wu"
 title_separator          : "-"
-name                     : &name "Yue Wu"
+name                     : &name "Yue Wu 吴越"
 description              : &description "personal description"
 url                      : https://yuewu2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue Wu (吴越)"
+  name             : "Yue Wu 吴越"
   avatar           : "profile.png"
   bio              : "Undergraduate at University of Science and Technology of China (USTC)"
   location         : "R508, B2,<br>&emsp;&nbsp; Central Campus, USTC,<br>&emsp;&nbsp; 96 Jinzhai Rd., Hefei,<br>&emsp;&nbsp; Anhui, P.R. China"
