@@ -11,7 +11,7 @@ redirect_from:
 Short Bio
 ===
 
-My name is **Yue Wu (吴越)**, a senior student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/) (SGY), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC), majoring in Computational Mathematics. I grew up in Wuxi, Jiangsu in eastern China.
+I am **Yue Wu (吴越)**, a senior student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/) (SGY), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC), majoring in Computational Mathematics. I grew up in Wuxi, Jiangsu in eastern China.
 
 My primary research interests is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO method, discontinuous Galerkin method and spectral method.
 
