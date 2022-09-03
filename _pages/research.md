@@ -45,7 +45,7 @@ Research report (in Chinese) preview: [here](../files/main.pdf).
 
 Supervisor: Prof. [Xiangxiong Zhang](https://www.math.purdue.edu/~zhan1966/)
 
-June 2022 --- present, Purdue U. (online)
+June 2022 --- August 2022, Purdue University (online)
 
 The high-dimensionality of Vlasov dynamics makes it expenive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem.
 
