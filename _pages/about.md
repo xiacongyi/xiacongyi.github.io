@@ -29,7 +29,7 @@ Honors and Awards
 
 1. National Scholarship for Undergraduate Students, USTC, Dec. 2021
 2. National Scholarship for Undergraduate Students, USTC, Dec. 2020
-3. Promotional ambassador for Wuxi as an outstanding student representative Wuxi, Wuxi, Aug. 2020
+3. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Wuxi, Aug. 2020
 4. Third Prize for Freshman Scholarship, USTC, Sept. 2019
 
 Standardized Tests
