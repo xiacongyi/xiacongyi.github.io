@@ -11,7 +11,7 @@ redirect_from:
 Short Bio
 ===
 
-I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC), majoring in Computational Mathematics. I grew up in Wuxi, Jiangsu in eastern China.
+I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC), majoring in Computational Mathematics (GPA: 3.98/4.3, rank 1st in the major). I grew up in Wuxi, Jiangsu in eastern China.
 
 My primary research interest is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO methods, discontinuous Galerkin methods and spectral methods.
 
@@ -31,6 +31,14 @@ Honors and Awards
 2. National Scholarship for Undergraduate Students, USTC, Dec. 2020
 3. Promotional ambassador for Wuxi as an outstanding student representative Wuxi, Wuxi, Aug. 2020
 4. Third Prize for Freshman Scholarship, USTC, Sept. 2019
+
+Standardized Tests
+===
+* TOEFL iBT: 106 (R: 28, L: 27, S: 25, W: 26) (Nov. 21, 2021)
+* GRE General: 327 (V: 157, Q: 170) (Sept. 3, 2022)
+* GRE Subject Mathematics: 970 (97% percentile) (Oct. 23, 2021)
+* CET-6: 612 (Dec., 2020)
+* CET-4: 643 (Sept., 2020)
 
 ---
 
