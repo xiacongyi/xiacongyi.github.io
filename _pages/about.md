@@ -28,6 +28,10 @@ Honors and Awards
 3. Promotional ambassador for Wuxi as an outstanding student representative Wuxi, Wuxi, Aug. 2020
 4. Third Prize for Freshman Scholarship, USTC, Sept. 2019
 
+Education
+===
+* 2019.9 --- 2023.6: B.S. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (expected)
+* 2017.9 --- 2020.6: High School, Wuxi No.1 High School
 
 ---
 
