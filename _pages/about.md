@@ -13,7 +13,7 @@ Short Bio
 
 I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China](http://en.ustc.edu.cn/) (USTC), majoring in Computational Mathematics. I grew up in Wuxi, Jiangsu in eastern China.
 
-My primary research interests is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO methods, discontinuous Galerkin methods and spectral methods.
+My primary research interest is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO methods, discontinuous Galerkin methods and spectral methods.
 
 I joined the research group lead by Prof. [Mengping Zhang](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) and Prof. [Yan Jiang](http://staff.ustc.edu.cn/~jiangy/index.html) in 2021 and conducted my *Undergraduate Research Program*. In summer 2022, I worked with Prof. [Xiangxiong Zhang](https://www.math.purdue.edu/~zhan1966/index.html) on a small project.
 
