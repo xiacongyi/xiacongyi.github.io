@@ -29,6 +29,6 @@ Honors and Awards
 4. Third Prize for Freshman Scholarship, USTC, Sept. 2019
 
 
-===
+---
 
 <a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
