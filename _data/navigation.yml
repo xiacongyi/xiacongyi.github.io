@@ -15,7 +15,7 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Cycling"
+  - title: "Sports"
     url: /cycling/
 
   - title: "Miscellaneous"
@@ -27,5 +27,5 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "Guide"  ##
+  #- title: "Guide"
   #  url: /markdown/
