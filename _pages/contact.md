@@ -8,16 +8,16 @@ author_profile: true
 **Mailing address**:
 
 ```txt
-Room 508, Building 2,
-Middle Campus, USTC,
-150 Huangshan Road,
-Hefei, Anhui, China, 230026
+Rm. 508, Bldg. 2, 
+Univ. of Sci. & Tech. of China Mid Camp., 
+373 Huangshan Rd., Shushan Dist., 
+Hefei, Anhui, China, 230022
 ```
 
 **E-mail**:
 * USTC email: [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn)
 * backup email: [pilotjohnwu@gmail.com](mailto:pilotjohnwu@gmail.com)
 
-**URL**: 
+**Personal Website**: 
 * USTC homepage: [home.ustc.edu.cn/~pilotjohnwu](http://home.ustc.edu.cn/~pilotjohnwu)
 * GitHub Homepage: [yuewu2002.github.io](https://yuewu2002.github.io)
