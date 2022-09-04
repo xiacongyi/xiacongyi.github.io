@@ -3,8 +3,6 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
@@ -12,6 +10,8 @@ redirect_from:
 {% comment %} 
 Vitae also available to download [here](../files/cv.pdf).
 {% endcomment %} 
+
+My CV is also available to download [here](../files/cv.pdf).
 
 <object data="../files/cv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../files/cv.pdf">
