@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "pilotjohnwu@mail.ustc.edu.cn"
-  researchgate     : "researchgate.net/profile/Yue-Wu-226"
+  researchgate     : "https://researchgate.net/profile/Yue-Wu-226"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/YueWu2002"
+  github           : "https://github.com/YueWu2002"
   google_plus      :
   keybase          :
   instagram        :

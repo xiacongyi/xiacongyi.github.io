@@ -15,9 +15,9 @@ Hefei, Anhui, China, 230022
 ```
 
 **E-mail**:
-* USTC email: [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn)
-* backup email: [pilotjohnwu@gmail.com](mailto:pilotjohnwu@gmail.com)
+* USTC email: [`pilotjohnwu@mail.ustc.edu.cn`](mailto:pilotjohnwu@mail.ustc.edu.cn)
+* backup email: [`pilotjohnwu@gmail.com`](mailto:pilotjohnwu@gmail.com)
 
 **Personal Website**: 
-* USTC homepage: [home.ustc.edu.cn/~pilotjohnwu](http://home.ustc.edu.cn/~pilotjohnwu)
-* GitHub Homepage: [yuewu2002.github.io](https://yuewu2002.github.io)
+* USTC homepage: [`home.ustc.edu.cn/~pilotjohnwu`](http://home.ustc.edu.cn/~pilotjohnwu)
+* GitHub Homepage: [`yuewu2002.github.io`](https://yuewu2002.github.io)

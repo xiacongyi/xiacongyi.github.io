@@ -16,9 +16,9 @@ Implementation and test results of FD-WENO schemes (in Chinese) can be viewed [h
 Links
 ===
 
-* USTC: [en.ustc.edu.cn](en.ustc.edu.cn){:target="_blank"}
-* SCGY, USTC: [en.scgy.ustc.edu.cn](en.scgy.ustc.edu.cn){:target="_blank"}
-* Math, USTC: [math.ustc.edu.cn/ENGLISH](math.ustc.edu.cn/ENGLISH){:target="_blank"}
-* LibGen: [libgen.gs](libgen.gs){:target="_blank"}
-* iCourse Club, USTC: [icourse.club](icourse.club)
+* USTC: [en.ustc.edu.cn](https://en.ustc.edu.cn){:target="_blank"}
+* SCGY, USTC: [en.scgy.ustc.edu.cn](https://en.scgy.ustc.edu.cn){:target="_blank"}
+* Math, USTC: [math.ustc.edu.cn/ENGLISH](https://math.ustc.edu.cn/ENGLISH){:target="_blank"}
+* LibGen: [libgen.gs](https://libgen.gs){:target="_blank"}
+* iCourse Club, USTC: [icourse.club](https://icourse.club){:target="_blank"}
 
