@@ -21,3 +21,4 @@ Links
 * Math, USTC: [math.ustc.edu.cn](http://math.ustc.edu.cn/ENGLISH/list.htm){:target="_blank"}
 * LibGen: [libgen.gs](https://libgen.gs){:target="_blank"}
 * iCourse Club, USTC: [icourse.club](https://icourse.club){:target="_blank"}
+* Intel OneAPI Toolkits: [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
