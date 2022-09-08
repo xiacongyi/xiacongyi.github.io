@@ -27,10 +27,12 @@ Education
 Honors and Awards
 ===
 
-1. National Scholarship for Undergraduate Students, USTC, Dec. 2021
-2. National Scholarship for Undergraduate Students, USTC, Dec. 2020
-3. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Wuxi, Aug. 2020
-4. Third Prize for Freshman Scholarship, USTC, Sept. 2019
+1. China National Scholarship, Dec. 2021
+2. China National Scholarship, Dec. 2020
+3. Winner's Prize, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and Partial Differential track, Aug. 2022
+4. Second Prize, the 13th China National Mathematics Competition for College Students, Dec. 2021
+5. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Wuxi, Aug. 2020
+6. Third Prize for Freshman Scholarship, USTC, Sept. 2019
 
 Standardized Tests
 ===

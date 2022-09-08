@@ -24,3 +24,5 @@ Links
 * LibGen: [libgen.gs](https://libgen.gs){:target="_blank"}
 * iCourse Club, USTC: [icourse.club](https://icourse.club){:target="_blank"}
 * Intel OneAPI Toolkits: [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
+* S.-T. Yau College Student Mathematics Contest: [Yau-Contest](www.yau-contest.com/en)
+
