@@ -15,7 +15,7 @@ I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of 
 
 My primary research interest is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO methods, discontinuous Galerkin methods and spectral methods.
 
-I joined the research group lead by Prof. [Mengping Zhang](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) and Prof. [Yan Jiang](http://staff.ustc.edu.cn/~jiangy/index.html) in 2021 and conducted my *Undergraduate Research Program*. In summer 2022, I worked with Prof. [Xiangxiong Zhang](https://www.math.purdue.edu/~zhan1966/index.html) on a small project.
+I joined the research group lead by Prof. [Mengping Zhang](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) and Prof. [Yan Jiang](http://staff.ustc.edu.cn/~jiangy/index.html) in 2021 and conducted my *Undergraduate Research Program*. In 2022 summer, I worked on a small project under the supervision of Prof. [Xiangxiong Zhang](https://www.math.purdue.edu/~zhan1966/index.html).
 
 During the 2022 spring semester, I served as a teaching assitant in *Computational Methods B*.
 
@@ -27,12 +27,12 @@ Education
 Honors and Awards
 ===
 
-1. China National Scholarship, 2020-2021 academic year, Dec. 2021
-2. China National Scholarship, 2019-2020 academic year, Dec. 2020
+1. China National Scholarship (Top 3%), 2020-2021 academic year, Dec. 2021
+2. China National Scholarship (Top 3%), 2019-2020 academic year, Dec. 2020
 3. Winner's Prize, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and PDEs track, Aug. 2022
 4. Second Prize, the 13th China National Mathematics Competition for College Students, Dec. 2021
 5. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Aug. 2020
-6. Third Prize for Freshman Scholarship, USTC, Sept. 2019
+6. Third Prize, Freshman Scholarship, USTC, Sept. 2019
 
 Standardized Tests
 ===

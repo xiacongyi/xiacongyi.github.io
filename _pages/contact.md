@@ -5,8 +5,14 @@ permalink: /contact/
 author_profile: true
 ---
 
-**Mailing address**:
 
+**Name**: 吴越, Yue WU (pronounce like [you-eh woo])
+
+**Pronouns**: he/him/his
+
+**E-mail**: [`pilotjohnwu@mail.ustc.edu.cn`](mailto:pilotjohnwu@mail.ustc.edu.cn) (preferred), [`pilotjohnwu@qq.com`](mailto:pilotjohnwu@qq.com)
+
+**Mailing address**:
 ```txt
 Rm. 508, Bldg. 2, 
 Univ. of Sci. & Tech. of China Mid Camp., 
@@ -14,10 +20,4 @@ Univ. of Sci. & Tech. of China Mid Camp.,
 Hefei, Anhui, China, 230022
 ```
 
-**E-mail**:
-* USTC email: [`pilotjohnwu@mail.ustc.edu.cn`](mailto:pilotjohnwu@mail.ustc.edu.cn)
-* backup email: [`pilotjohnwu@gmail.com`](mailto:pilotjohnwu@gmail.com)
-
-**Personal Website**: 
-* USTC homepage: [`home.ustc.edu.cn/~pilotjohnwu`](http://home.ustc.edu.cn/~pilotjohnwu)
-* GitHub Homepage: [`yuewu2002.github.io`](https://yuewu2002.github.io)
+**Personal Website**: [`home.ustc.edu.cn/~pilotjohnwu`](http://home.ustc.edu.cn/~pilotjohnwu)
