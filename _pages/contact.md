@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-**Name**: 吴越, Yue WU (pronounce like [you-eh woo])
+**Legal Name**: 吴越, Yue WU (pronounce like [you-eh woo])
 
 **Pronouns**: he/him/his
 
