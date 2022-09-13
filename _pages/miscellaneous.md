@@ -26,3 +26,8 @@ Links
 * Intel OneAPI Toolkits: [OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html)
 * S.-T. Yau College Student Mathematics Contest: [Yau-Contest](www.yau-contest.com/en)
 
+---
+
+It was wrote in the first e-mail from China in Sept. 14th, 1987: *'Across the great wall, we can reach every corner in the world.'* However, nowadays many in mainland China have difficulty crossing the *'Great Wall'*. Here are some free and helpful tools:
+* For Android phones: [SXVPN](https://github.com/sharmajv/vpn)
+* For computers: [Fanqiang](https://github.com/bannedbook/fanqiang)
