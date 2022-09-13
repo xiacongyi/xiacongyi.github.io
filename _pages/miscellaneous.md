@@ -29,5 +29,5 @@ Links
 ---
 
 It was wrote in the first e-mail from China in Sept. 14th, 1987: *'Across the great wall, we can reach every corner in the world.'* However, nowadays many in mainland China have difficulty crossing the *'Great Wall'*. Here are some free and helpful tools:
-* For Android phones: [SXVPN](https://github.com/sharmajv/vpn)
-* For computers: [Fanqiang](https://github.com/bannedbook/fanqiang)
+* For Android phones: [VPN](https://github.com/sharmajv/vpn)
+* For computers: [VPN](https://github.com/Alvin9999/new-pac/wiki)
