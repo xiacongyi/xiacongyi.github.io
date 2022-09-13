@@ -45,7 +45,7 @@ Standardized Tests
 Servives
 ===
 * Sept. 2019 --- June 2020: group leader, "Science and Society" Freshman Seminar, supervisor: Prof. Jinjin Zheng
-* Mar. 2022 --- June 2023: monitor, Class 3 for math-majored students at the School of the Gifted Young
+* Mar. 2022 --- June 2023: monitor, class 3 for math-majored students who enrolled in 2019 at the School of the Gifted Young
 
 ---
 
