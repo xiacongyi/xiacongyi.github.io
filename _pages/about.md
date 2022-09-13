@@ -21,8 +21,8 @@ During the 2022 spring semester, I served as a teaching assitant in *Computation
 
 Education
 ===
-* 2019.9 --- 2023.6: B.S. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (expected)
-* 2017.9 --- 2020.6: High School, Wuxi No.1 High School
+* Sept. 2019 --- June 2023: B.S. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (expected)
+* Sept. 2017 --- June 2020: High School, Wuxi No.1 High School
 
 Honors and Awards
 ===
@@ -41,6 +41,11 @@ Standardized Tests
 * GRE Subject Mathematics: 970 (97% percentile) (Oct. 23, 2021)
 * CET-6: 612 (Dec., 2020)
 * CET-4: 643 (Sept., 2020)
+
+Servives
+===
+* Sept. 2019 --- June 2020: group leader, "Science and Society" Freshman Seminar, supervisor: Prof. Jinjin Zheng
+* Mar. 2022 --- June 2023: monitor, Class 3 for math-majored students at the School of the Gifted Young
 
 ---
 
