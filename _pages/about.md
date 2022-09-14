@@ -39,8 +39,8 @@ Standardized Tests
 * TOEFL iBT: 106 (R: 28, L: 27, S: 25, W: 26) (Nov. 21, 2021)
 * GRE General: 327 (V: 157, Q: 170, W: 3.5) (Sept. 3, 2022)
 * GRE Subject Mathematics: 970 (97% percentile) (Oct. 23, 2021)
-* CET-6: 612 (Dec., 2020)
-* CET-4: 643 (Sept., 2020)
+* CET-6: 612 (Dec. 2020)
+* CET-4: 643 (Sept. 2020)
 
 Servives
 ===
