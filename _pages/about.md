@@ -27,8 +27,8 @@ Education
 Honors and Awards
 ===
 
-1. China National Scholarship (Top 3%), 2020-2021 academic year, Dec. 2021
-2. China National Scholarship (Top 3%), 2019-2020 academic year, Dec. 2020
+1. China National Scholarship, 2020-2021 academic year, Dec. 2021
+2. China National Scholarship, 2019-2020 academic year, Dec. 2020
 3. Winner's Prize, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and PDEs track, Aug. 2022
 4. Second Prize, the 13th China National Mathematics Competition for College Students, Dec. 2021
 5. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Aug. 2020
