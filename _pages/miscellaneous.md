@@ -12,7 +12,7 @@ My lecture notes (in Chinese) of *Differential Equations I* (ODEs and basic PDEs
 
 Implementation and test results of FD-WENO schemes (in Chinese) can be viewed [here](../files/demo1.pdf).
 
-Superconvergence of numerical solution to the Poisson equation using FEM observed in a homework can be found [here](../files/superconv.pdf).
+FEM homework reports can be found [HW1](../files/FEM/HW1.pdf), [HW2](../files/FEM/HW2.pdf).
 
 
 Links
