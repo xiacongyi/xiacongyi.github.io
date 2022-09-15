@@ -42,9 +42,10 @@ Standardized Tests
 * CET-6: 612 (Dec. 2020)
 * CET-4: 643 (Sept. 2020)
 
-Servives
+Activities
 ===
 * Sept. 2019 --- June 2020: group leader, "Science and Society" Freshman Seminar, supervisor: Prof. Jinjin Zheng
+* Mar. 2022 --- June 2022: Analysis and PDEs seminar for S.-T. Yau College Student Mathematics Contest
 * Mar. 2022 --- June 2023: monitor, class 3 for math-majored students who enrolled in 2019 at the School of the Gifted Young
 
 ---
