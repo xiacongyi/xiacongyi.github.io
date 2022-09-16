@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Current
+===
+
+*I am looking for a Ph.D. position in high-order numerical methods for PDEs, scientific computing and numerical analysis.*
+
 Short Bio
 ===
 
