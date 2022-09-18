@@ -5,7 +5,7 @@ permalink: /cycling/
 author_profile: true
 ---
 
-[//]: <> (如果要设置图片大小什么的，尽量去设置宽度而不是高度，因为你设置的高度会被CSS的 height: auto 覆盖掉)
+[//]: <> (如果要设置图片大小什么的，尽量去设置宽度而不是高度，因为你设置的高度会被CSS的 height: auto 覆盖掉；但是设置 width=60% 会导致编译失败)
 
 
 A cycling enthusiast
@@ -18,7 +18,7 @@ I have been enthusiastic about bicycling since middle school. In summer 2019 I b
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/ITT record.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -47,7 +47,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/1.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -65,7 +65,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/8.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -83,7 +83,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/6.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -101,7 +101,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/9.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -119,7 +119,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/2.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -137,7 +137,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/3.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -155,7 +155,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/4.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -173,7 +173,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/7.jpg" 
-        width = 60%>
+        width = "60%">
     <br>
     <div style = "
         color: orange;
