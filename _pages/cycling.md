@@ -18,7 +18,7 @@ I have been enthusiastic about bicycling since middle school. In summer 2019 I b
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/ITT record.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
@@ -47,7 +47,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/1.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
@@ -65,7 +65,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/8.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
@@ -83,7 +83,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/6.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
@@ -101,7 +101,7 @@ Pictures
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/9.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
@@ -114,15 +114,12 @@ Pictures
     <p> </p>
 </center>
 
-
-In Hefei, top-left: getting ready to ride; top-right: USTC cycling club in the race; bottom-left: my aerobike at the school gate; bottom-right: a chicken guarding our bikes.
-
 <center>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/2.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
@@ -140,7 +137,7 @@ In Hefei, top-left: getting ready to ride; top-right: USTC cycling club in the r
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/3.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
@@ -158,7 +155,7 @@ In Hefei, top-left: getting ready to ride; top-right: USTC cycling club in the r
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/4.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
@@ -176,7 +173,7 @@ In Hefei, top-left: getting ready to ride; top-right: USTC cycling club in the r
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/riding/7.jpg" 
-        height = 300>
+        width = 60%>
     <br>
     <div style = "
         color: orange;
