@@ -55,7 +55,7 @@ Pictures
         display: inline-block;
         color: #999;
         padding: 2px;">
-        group photos with the local cycling clubs, on the Taihu Lake in Wuxi, summer 2019
+        with the local cycling clubs, on Road S230 in Wuxi, summer 2019
     </div>
     <p> </p>
 </center>
@@ -73,7 +73,7 @@ Pictures
         display: inline-block;
         color: #999;
         padding: 2px;">
-        group photos with the local cycling clubs, by the Taihu Lake in Wuxi, summer 2019
+        with the local cycling clubs, at the <a href = "https://en.hlcruinspark.com/" target = "_blank">Helv City Relics</a> in Wuxi, summer 2019
     </div>
     <p> </p>
 </center>
