@@ -21,7 +21,7 @@ After one and a half year, one of my best cycling record came in April 2021, whe
 Pictures
 ---
 
-Summer 2019, regular practice by the Taihu Lake with the local cycling clubs in Wuxi.
+Summer 2019, regular practice by the Taihu Lake with the local cycling clubs in Wuxi. There are a great number of members in those clubs and I enjoy riding in a team with them much.
 <img src="../files/riding/1.jpg" height = "300"/>
 <img src="../files/riding/8.jpg" height = "300"/>
 
