@@ -11,11 +11,9 @@ A cycling enthusiast
 
 I have been enthusiastic about bicycling since middle school. In summer 2019 I bought an aerobike *Giant 2018 PROPEL ADV PRO 2*, trained a lot and made my first ITT (individual time trial) good record of covering 8.77 km with an average speed of 41.29 km/h by the Taihu Lake (China's 3rd largest freshwater lake), Wuxi on Sept. 14, 2019. After one year, a better ITT record of covering 8.77 km with an average speed of 42.44 km/h on May. 31, 2020.
 
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/ITT record.jpg" 
-        width = 50%>
+<img src = "../files/riding/ITT record.jpg" width = 50%>
+
+
 <center>
     <img style = "
         border-radius: 0.3125em;
