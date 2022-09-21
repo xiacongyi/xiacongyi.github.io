@@ -57,7 +57,7 @@ Activities
 ---
 
 <script>
-document.write("Last update at: "+document.lastModified+"" )
+document.write("Last modifid at: "+document.lastModified+"" )
 </script>
 
 ---
