@@ -38,12 +38,12 @@ Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal c
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/undergraduate-research-program/cpt_14.png" 
-        width = "33.5%">
+        width = "46.5%">
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/undergraduate-research-program/energy.png" 
-        width = "36%">
+        width = "50%">
     <br>
     <div style = "
         color: orange;
@@ -77,7 +77,7 @@ We virtually discussed this research with Prof. [Jing-Mei QIU](https://jingmeiqi
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/summer-research/1.png" 
-        width = "60%">
+        width = "90%">
     <br>
     <div style = "
         color: orange;
@@ -95,7 +95,7 @@ We virtually discussed this research with Prof. [Jing-Mei QIU](https://jingmeiqi
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/summer-research/2.png" 
-        width = "60%">
+        width = "90%">
     <br>
     <div style = "
         color: orange;
@@ -113,7 +113,7 @@ We virtually discussed this research with Prof. [Jing-Mei QIU](https://jingmeiqi
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
         src = "../files/summer-research/3.png" 
-        width = "60%">
+        width = "90%">
     <br>
     <div style = "
         color: orange;
