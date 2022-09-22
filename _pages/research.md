@@ -33,7 +33,28 @@ The controlled nuclear fusion is one of the most prospective solution to the ene
 
 Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal component of the electric field) at time $T=7000$, which reveals the resistive tearing mode structure and should be independent of the initial perturbation, and a log-plot of kinetic energy evolution under different resistivity. Our code reveals the linear growing stage, mode structure and the logrithmic growth rate very well.
 
-<img src="../files/cpt_14.png" width="50%"/> <img src="../files/4energy.png" width="46%"/>
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/undergraduate-research-program/cpt_14.png" 
+        width = "33.5%">
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/undergraduate-research-program/energy.png" 
+        width = "36%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        left: tearing mode sturtcure; right: kinetic energy
+    </div>
+    <p> </p>
+</center>
 
 We virtually discussed this research with Prof. [Chi-Wang SHU](https://www.dam.brown.edu/people/shu/). Thanks for his discussion and advice.
 
@@ -50,3 +71,58 @@ June 2022 --- August 2022, Purdue University (online)
 The high-dimensionality of Vlasov dynamics makes it expenive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem. We designed two algorithms, one is the tangent-space accelerated alternating projection algorithm, and the other is the nuclear norm optimization, both with macroscopic quantities conservation.
 
 We virtually discussed this research with Prof. [Jing-Mei QIU](https://jingmeiqiu.github.io/). Thanks for her discussion and data.
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/summer-research/1.png" 
+        width = "60%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        original data from a conservative dynamic low-rank Vlasov solver
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/summer-research/2.png" 
+        width = "60%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        using tangent-space based alternating projection
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/summer-research/3.png" 
+        width = "60%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        using nuclear norm minimization
+    </div>
+    <p> </p>
+</center>
+
