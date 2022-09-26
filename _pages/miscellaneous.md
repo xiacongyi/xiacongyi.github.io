@@ -12,7 +12,7 @@ My lecture notes (in Chinese) of *Differential Equations I* (ODEs and basic PDEs
 
 Implementation and test results of FD-WENO schemes (in Chinese) can be viewed [here](../files/demo1.pdf).
 
-FEM homework reports can be found [HW1](../files/FEM/HW1.pdf), [HW2](../files/FEM/HW2.pdf).
+FEM homework reports can be found [HW1](../files/FEM/HW1.pdf) (1D linear element), [HW2](../files/FEM/HW2.pdf) (1D quadratic element), [HW3](../files/FEM/HW3.pdf) (1D purely Neumann BC).
 
 
 Links
