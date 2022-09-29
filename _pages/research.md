@@ -9,12 +9,12 @@ author_profile: true
 # Research interets
 
 1. High-order numerical methods for PDEs:
-   - Finite element discontinuous Galerkin methods 
+   - Finite element methods 
+   - Discontinuous Galerkin methods
    - Finite difference/volume WENO methods
    - Spectral methods
 2. Scientific computing:
    - Parallel implementation of numerical solvers
-   - Efficient numerical algorithms
 
 ---
 
