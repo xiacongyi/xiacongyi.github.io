@@ -28,6 +28,28 @@ Links
 * Warming Math Magazine (USTC Math Department): [Warming](http://staff.ustc.edu.cn/~mathsu01/pu/waming.html)
 * AcademicPages (template for this website): [academicpages](https://github.com/academicpages/)
 
+
+Pictures
+===
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../files/pictures/cloud.jpg" 
+        width = "50%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        A photo of some cloud taken in Oct, 2021. I wonder whether it has something to do with the boundary layer tubulance?
+    </div>
+    <p> </p>
+</center>
+
+
 ---
 
 It was wrote in the first e-mail from China in Sept. 14th, 1987: *'Across the great wall, we can reach every corner in the world.'* However, nowadays many in mainland China have difficulty crossing the *'Great Wall'*. Here are some free and helpful tools:
