@@ -44,7 +44,7 @@ Pictures
         display: inline-block;
         color: #999;
         padding: 2px;">
-        A photo of some cloud taken in Oct, 2021. I wonder whether it has something to do with the boundary layer tubulance?
+        A photo of some cloud taken in Oct, 2021. I wonder whether it has something to do with the boundary layer turbulance?
     </div>
     <p> </p>
 </center>
