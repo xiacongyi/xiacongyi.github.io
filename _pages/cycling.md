@@ -33,7 +33,7 @@ I have been enthusiastic about bicycling since middle school. In summer 2019 I b
 
 When I entered USTC in 2019, I joined the university cycling club and planned to attend a lot of cycling races and activities, with ambition and optimism. However, the Covid-19 pandemic which started in December 2019 just put the mockers on my plan, with almost all races cancelled and regular riding paused.
 
-After one and a half year, one of my best cycling record came in April 2021, when the 1st On-Cloud National University Cycling Race was held. In the *men's one-kilometer time trial*, I finished in 1 min 24 seconds at an average power-weight ratio of 501watt/65kg and ranked 8-th. Since this race did not discriminate bewteen amateurs and professionals (in fact 5 of 7 players with rank higher than me are professionals), I am quite satisfied with this result. In the *3-kilometer team relay*, out team also ranked 8-th.
+After one and a half year, one of my best cycling record came in April 2021, when the 1st On-Cloud National University Cycling Race was held. In the *men's one-kilometer time trial*, I finished in 1 min 24 seconds at an average power-weight ratio of 501watt/65kg and ranked 8-th. Since this race did not discriminate bewteen amateurs and professionals (in fact 5 of 7 players with rank higher than me are professionals), I am quite satisfied with this result. In the *3-kilometer team relay*, our team also ranked 8-th.
 
 
 ---
