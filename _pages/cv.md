@@ -3,6 +3,9 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+redirect_from: 
+  - /cv/
+  - /cv.html
 ---
 
 My CV is also available to download [here](../files/cv.pdf){:target="_blank"}.

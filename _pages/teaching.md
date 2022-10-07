@@ -3,6 +3,9 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
 ---
 
 2022 spring at USTC: Teaching Assistant, Computational Methods B
