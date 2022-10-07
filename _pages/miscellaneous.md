@@ -2,7 +2,7 @@
 layout: archive
 title: "Miscellaneous"
 permalink: /miscellaneous/
-author_profile: false
+author_profile: true
 redirect_from: 
   - /ms/
 ---
@@ -20,12 +20,6 @@ FEM homework reports can be found [HW1](../files/FEM/HW1.pdf) (1D linear element
 
 Programming in numerical PDE (choronological order)
 ===
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
 | PDE | method | domain | mesh | language |
 | --- | --- | --- | --- | --- |
@@ -58,6 +52,7 @@ Links
 
 Pictures
 ===
+
 <center>
     <img style = "
         border-radius: 0.3125em;

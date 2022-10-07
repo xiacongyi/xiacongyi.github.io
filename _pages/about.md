@@ -27,6 +27,7 @@ During the 2022 spring semester, I served as a teaching assitant in *Computation
 
 Education
 ===
+
 * Sept. 2019 --- June 2023: B.Sc. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (expected)
 * Sept. 2017 --- June 2020: High School, Wuxi No.1 High School
 
@@ -43,6 +44,7 @@ Honors and Awards
 
 Activities
 ===
+
 * Sept. 2019 --- June 2020: group leader, "Science and Society" Freshman Seminar, supervisor: Prof. [Jinjin ZHENG](http://staff.ustc.edu.cn/~jjzheng/)
 * Sept. 2019 --- June 2023: member, USTC cycling team
 * Mar. 2022 --- June 2022: participant and talker, analysis and PDE seminar for the S.-T. Yau College Student Mathematics Contest, supervisor: Prof. [Hao YIN](http://staff.ustc.edu.cn/~haoyin/)
@@ -52,6 +54,7 @@ Activities
 
 Standardized Tests
 ===
+
 * TOEFL iBT: 106 (R: 28, L: 27, S: 25, W: 26) (Nov. 21, 2021)
 * GRE General: 327 (V: 157, Q: 170, W: 3.5) (Sept. 3, 2022)
 * GRE Subject Mathematics: 970 (97% percentile) (Oct. 23, 2021)
