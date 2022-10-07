@@ -47,9 +47,10 @@ Standardized Tests
 * CET-6: 612 (Dec. 2020)
 * CET-4: 643 (Sept. 2020)
 
-Activities
+Extracurricular Activities
 ===
 * Sept. 2019 --- June 2020: group leader, "Science and Society" Freshman Seminar, supervisor: Prof. [Jinjin ZHENG](http://staff.ustc.edu.cn/~jjzheng/)
+* Sept. 2019 --- June 2023: member, USTC cycling team
 * Mar. 2022 --- June 2022: participant and talker, analysis and PDE seminar for the S.-T. Yau College Student Mathematics Contest, supervisor: Prof. [Hao YIN](http://staff.ustc.edu.cn/~haoyin/)
 * Mar. 2022 --- June 2023: monitor, class 3 for math-majored students of grade 2019 at the School of the Gifted Young
 * June 2022: rewarded problem solver, Vol. 64, Warming (an in-school math magazine held by USTC Math Department)
