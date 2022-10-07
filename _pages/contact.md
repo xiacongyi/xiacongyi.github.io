@@ -3,9 +3,6 @@ layout: archive
 title: "Contact Information"
 permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
 ---
 
 

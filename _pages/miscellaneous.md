@@ -4,8 +4,7 @@ title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: false
 redirect_from: 
-  - /miscellaneous/
-  - /miscellaneous.html
+  - /ms/
 ---
 
 
