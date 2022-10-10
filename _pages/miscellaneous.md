@@ -48,6 +48,7 @@ Links
 * S.-T. Yau College Student Mathematics Contest: [Yau-Contest](www.yau-contest.com/en)
 * Warming Math Magazine (USTC Math Department): [Warming](http://staff.ustc.edu.cn/~mathsu01/pu/waming.html)
 * AcademicPages (template for this website): [academicpages](https://github.com/academicpages/)
+* VSCode portable: [VSCode portable](https://code.visualstudio.com/docs/editor/portable)
 
 
 Pictures
