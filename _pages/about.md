@@ -36,10 +36,10 @@ Honors and Awards
 
 1. [China National Scholarship](../files/awards/2021-national-sch.jpg){:target="_blank"}, 2020-2021 academic year, Dec. 2021
 2. [China National Scholarship](../files/awards/2020-national-sch.jpg){:target="_blank"}, 2019-2020 academic year, Dec. 2020
-3. [Winner's Prize](../files/awards/Yau-contest.jpg){:target="_blank"}, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and PDEs track, Aug. 2022
-4. [Second Prize](../files/awards/CMC.jpg){:target="_blank"}, the 13th China National Mathematics Competition for College Students, Dec. 2021
-5. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Aug. 2020
-6. Gold Prize, USTC Outstanding Student Scholarship, 2021-2022 academic year, Oct. 2022
+3. Gold Prize, USTC Outstanding Student Scholarship, 2021-2022 academic year, Oct. 2022
+4. [Winner's Prize](../files/awards/Yau-contest.jpg){:target="_blank"}, the 13th S.-T. Yau College Student Mathematics Contest, Analysis and PDEs track, Aug. 2022
+5. [Second Prize](../files/awards/CMC.jpg){:target="_blank"}, the 13th China National Mathematics Competition for College Students, Dec. 2021
+6. Promotional Ambassador for Wuxi as an Outstanding Student Representative, Aug. 2020
 7. Third Prize, USTC Freshman Scholarship, Sept. 2019
 
 
