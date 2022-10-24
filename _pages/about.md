@@ -17,7 +17,7 @@ Current
 Short Bio
 ===
 
-I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Computational Mathematics (GPA: 3.98/4.3, rank 1st in the major, see [certificate](../files/rank.pdf){:target="_blank"}). I grew up in Wuxi, Jiangsu in eastern China.
+I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Information & Computational Science (GPA: 3.98/4.3, rank 1st in the major, see [certificate](../files/rank.pdf){:target="_blank"}). I grew up in Wuxi, Jiangsu in eastern China.
 
 My primary research interest is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO methods, discontinuous Galerkin methods and spectral methods. See my programming experience [here](/ms/).
 
