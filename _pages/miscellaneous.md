@@ -32,8 +32,9 @@ Programming in numerical PDE (choronological order)
 | resistive MHD | 3-order FD-HJ + Fourier | 3D toroidal with circular section | uniform Cartesian (embedded) | Fortran + OpenMP + MPI |
 | ideal MHD | arbitary-degree DG (locally div-free) | 2D ractangle | arbitary Cartesian | Fortran + OpenMP + MPI |
 | Poisson (Dirichlet) | arbitary-degree FEM | 1D interval | arbitary Cartesian | Matlab |
-| Poisson (purely Neumann) | arbitary-degree FEM + multiplier | 1D interval | arbitary Cartesian | Matlab |
+| Poisson (purely Neumann) | arbitary-degree FEM + L-multiplier | 1D interval | arbitary Cartesian | Matlab |
 | Poisson (Dirichlet) | 1-degree FEM | 2D polygon | triangle | Matlab |
+| Poisson (Dirichlet) | 2-degree FEM | 2D polygon | triangle | Matlab |
 
 
 Links
