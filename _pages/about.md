@@ -65,7 +65,7 @@ Standardized Tests
 ---
 
 <script>
-document.write("Last modifid at: "+document.lastModified+"" )
+document.write("Last update: "+document.lastModified+"" )
 </script>
 
 ---
