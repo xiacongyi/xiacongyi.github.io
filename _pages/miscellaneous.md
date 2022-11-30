@@ -15,7 +15,7 @@ My lecture notes (in Chinese) of *Differential Equations I* (ODEs and basic PDEs
 
 Implementation and test results of FD-WENO schemes (in Chinese) can be viewed [here](../files/demo1.pdf).
 
-FEM homework reports can be found [HW1](../files/FEM/HW1.pdf) (1D linear element), [HW2](../files/FEM/HW2.pdf) (1D quadratic element), [HW3](../files/FEM/HW3.pdf) (1D purely Neumann BC), [HW4](../files/FEM/HW4.pdf) (2D linear element), [HW5](../files/FEM/HW5.pdf).
+FEM homework reports can be found [HW1](../files/FEM/HW1.pdf) (1D linear element), [HW2](../files/FEM/HW2.pdf) (1D quadratic element), [HW3](../files/FEM/HW3.pdf) (1D purely Neumann BC), [HW4](../files/FEM/HW4.pdf) (2D linear element), [HW5](../files/FEM/HW5.pdf) (2D quadratic element).
 
 
 Programming in numerical PDE (choronological order)
@@ -24,13 +24,13 @@ Programming in numerical PDE (choronological order)
 | PDE | method | domain | mesh | language |
 | --- | --- | --- | --- | --- |
 | Poisson (Dirichlet) | 2-order FD | 2D ractangle | uniform Cartesian | Matlab |
-| Euler | 5-order FD-WENO | 1D interval | uniform Cartesian | Fortran |
-| Navier-Stokes | 5-order FD-WENO | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
+| compressible Euler | 5-order FD-WENO | 1D interval | uniform Cartesian | Fortran |
+| compressible Navier-Stokes | 5-order FD-WENO | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
 | Hamilton-Jacobi | 5-order FD-WENO | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
-| resistive MHD | 5-order FD-HJ | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
-| resistive MHD | 4-order FD-HJ + Fourier | 3D toroidal with rectangular section | uniform Cylindrical | Fortran + OpenMP |
-| resistive MHD | 3-order FD-HJ + Fourier | 3D toroidal with circular section | uniform Cartesian (embedded) | Fortran + OpenMP + MPI |
-| ideal MHD | arbitary-degree DG (locally div-free) | 2D ractangle | arbitary Cartesian | Fortran + OpenMP + MPI |
+| compressible RMHD | 5-order FD-HJ | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
+| compressible RMHD | 4-order FD-HJ + Fourier | 3D toroidal with rectangular section | uniform Cylindrical | Fortran + OpenMP |
+| compressible RMHD | 3-order FD-HJ + Fourier | 3D toroidal with circular section | uniform Cartesian (embedded) | Fortran + OpenMP + MPI |
+| compressible MHD | arbitary-degree DG (locally div-free) | 2D ractangle | arbitary Cartesian | Fortran + OpenMP + MPI |
 | Poisson (Dirichlet) | arbitary-degree FEM | 1D interval | arbitary Cartesian | Matlab |
 | Poisson (purely Neumann) | arbitary-degree FEM + L-multiplier | 1D interval | arbitary Cartesian | Matlab |
 | Poisson (Dirichlet) | 1,2-degree FEM | 2D polygon | triangle | Matlab |
