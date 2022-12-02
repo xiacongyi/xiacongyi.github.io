@@ -3,6 +3,8 @@ layout: archive
 title: ""
 permalink: /research/
 author_profile: true
+redirect_from: 
+  - /research_red/
 ---
 
 
@@ -127,3 +129,24 @@ We virtually discussed this research with Prof. [Jing-Mei QIU](https://jingmeiqi
     </div>
     <p> </p>
 </center>
+
+
+---
+
+
+Numerical PDE Programming (choronological order)
+===
+
+| PDE | method | domain | mesh | language |
+| --- | --- | --- | --- | --- |
+| Poisson (Dirichlet) | 2-order FD | 2D ractangle | uniform Cartesian | Matlab |
+| compressible Euler | 5-order FD-WENO | 1D interval | uniform Cartesian | Fortran |
+| compressible Navier-Stokes | 5-order FD-WENO | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
+| Hamilton-Jacobi | 5-order FD-WENO | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
+| compressible RMHD | 5-order FD-HJ | 2D ractangle | uniform Cartesian | Fortran + OpenMP |
+| compressible RMHD | 4-order FD-HJ + Fourier | 3D toroidal with rectangular section | uniform Cylindrical | Fortran + OpenMP |
+| compressible RMHD | 3-order FD-HJ + Fourier | 3D toroidal with circular section | uniform Cartesian (embedded) | Fortran + OpenMP + MPI |
+| compressible MHD | arbitary-degree DG (locally div-free) | 2D ractangle | arbitary Cartesian | Fortran + OpenMP + MPI |
+| Poisson (Dirichlet) | arbitary-degree FEM | 1D interval | arbitary Cartesian | Matlab |
+| Poisson (purely Neumann) | arbitary-degree FEM + L-multiplier | 1D interval | arbitary Cartesian | Matlab |
+| Poisson (Dirichlet) | 1,2-degree FEM | 2D polygon | triangle | Matlab |
