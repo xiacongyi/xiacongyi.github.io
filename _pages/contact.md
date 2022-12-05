@@ -17,7 +17,7 @@ author_profile: true
 **Mailing address**:
 ```txt
 Rm. 508, Bldg. 2, 
-Univ. of Sci. & Tech. of China Mid Camp., 
+Mid Camp., Univ. of Sci. & Tech. of China, 
 373 Huangshan Rd., Shushan Dist., 
 Hefei, Anhui, China, 230022
 ```
