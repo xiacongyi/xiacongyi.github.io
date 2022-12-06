@@ -62,7 +62,7 @@ Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal c
 
 We virtually discussed this research with Prof. [Chi-Wang SHU](https://www.dam.brown.edu/people/shu/). Thanks for his discussion and advice.
 
-Research report (in Chinese) preview: [here](../files/main.pdf).
+Research report (in Chinese) preview: [here](../files/undergraduate-research-program/main.pdf).
 
 
 
