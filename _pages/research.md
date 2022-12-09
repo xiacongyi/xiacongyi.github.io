@@ -41,7 +41,7 @@ Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal c
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/undergraduate-research-program/cpt_14.png" 
+        src = "../files/undergraduate-research-program/cpt_13.png" 
         width = "46.5%">
     <img style = "
         border-radius: 0.3125em;
