@@ -150,3 +150,4 @@ Numerical PDE Programming (choronological order)
 | Poisson (Dirichlet) | arbitary-degree FEM | 1D interval | arbitary Cartesian | Matlab |
 | Poisson (purely Neumann) | arbitary-degree FEM + L-multiplier | 1D interval | arbitary Cartesian | Matlab |
 | Poisson (Dirichlet) | 1,2-degree FEM | 2D polygon | triangle | Matlab |
+| Poisson (Dirichlet) | LDG | 1D interval | arbitary Cartesian | Matlab |
