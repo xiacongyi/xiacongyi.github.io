@@ -10,7 +10,7 @@ author_profile: true
 
 **Pronouns**: he/him/his
 
-**E-mail**: [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn) (preferred), [pilotjohnwu@qq.com](mailto:pilotjohnwu@qq.com)
+**E-mail**: [pilotjohnwu@mail.ustc.edu.cn](mailto:pilotjohnwu@mail.ustc.edu.cn) (preferred), [pilotjohnwu@gmail.com](mailto:pilotjohnwu@gmail.com)
 
 **Personal Website**: [http://home.ustc.edu.cn/~pilotjohnwu](http://home.ustc.edu.cn/~pilotjohnwu)
 
