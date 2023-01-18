@@ -11,7 +11,7 @@ redirect_from:
 # Research interets
 
 1. High-order numerical methods for PDEs:
-   - Discontinuous Galerkin Finite element methods
+   - Discontinuous Galerkin finite element methods
    - Finite difference/volume WENO methods
    - Spectral methods
 2. Scientific computing:
