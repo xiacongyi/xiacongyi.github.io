@@ -21,7 +21,7 @@ I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of 
 
 My primary research interest is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO methods, discontinuous Galerkin methods and spectral methods. See my programming experience [here](/research_red/).
 
-I joined the research group lead by Prof. [Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) and Prof. [Yan JIANG](http://staff.ustc.edu.cn/~jiangy/index.html) in 2021 and conducted my *Undergraduate Research Program*. In the summer of 2022, I worked on a small project under the supervision of Prof. [Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/index.html). Currently I am conducting my graduation project on DG methods for elliptic PDEs. 
+I joined the research group lead by [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) and [Prof. Yan JIANG](http://staff.ustc.edu.cn/~jiangy/index.html) in 2021 and conducted my *Undergraduate Research Program*. In the summer of 2022, I worked on a small project under the supervision of [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/index.html). Currently I am conducting my graduation project on DG methods for elliptic PDEs. 
 
 During the 2022 spring semester, I served as a teaching assitant in *Computational Methods B*.
 
@@ -46,10 +46,10 @@ Honors and Awards
 Activities
 ===
 
-* Sept. 2019 --- June 2020: group leader, "Science and Society" Freshman Seminar, supervisor: Prof. [Jinjin ZHENG](http://staff.ustc.edu.cn/~jjzheng/)
+* Sept. 2019 --- June 2020: group leader, "Science and Society" Freshman Seminar, supervisor: [Prof. Jinjin ZHENG](http://staff.ustc.edu.cn/~jjzheng/)
 * Sept. 2019 --- June 2023: member, USTC cycling team
 * Jan. 2021: First Prize, the 2020 Fall Electromagnetics Essay Competition, essay title: *Implement and application of a linear circuit simulator based on the method of single chain cycle circuit*
-* Mar. 2022 --- June 2022: participant and talker, analysis and PDE seminar for the S.-T. Yau College Student Mathematics Contest, supervisor: Prof. [Hao YIN](http://staff.ustc.edu.cn/~haoyin/)
+* Mar. 2022 --- June 2022: participant and talker, analysis and PDE seminar for the S.-T. Yau College Student Mathematics Contest, supervisor: [Prof. Hao YIN](http://staff.ustc.edu.cn/~haoyin/)
 * Mar. 2022 --- June 2023: monitor, class 2019-3 for math-majored students at the School of the Gifted Young
 * June 2022: rewarded problem solver, Vol. 64, Warming (an in-school math magazine held by USTC Math Department)
 

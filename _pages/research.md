@@ -26,7 +26,7 @@ redirect_from:
 
 *Undergraduate Research Program at USTC*
 
-Supervisor: Prof. [Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
+Supervisor: [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860)
 
 July 2021 --- May 2022, USTC
 
@@ -61,7 +61,7 @@ Below is a plot of $\widetilde{E}_{\varphi}$ (the perturbation on the toroidal c
     <p> </p>
 </center>
 
-We virtually discussed this research with Prof. [Chi-Wang SHU](https://www.dam.brown.edu/people/shu/). Thanks for his discussion and advice.
+We virtually discussed this research with [Prof. Chi-Wang SHU](https://www.dam.brown.edu/people/shu/). Thanks for his discussion and advice.
 
 Research report (in Chinese) preview: [here](../files/undergraduate-research-program/main.pdf); Defense PPT (in Chinese) preview: [here](../files/undergraduate-research-program/PPT.pdf).
 
@@ -69,13 +69,13 @@ Research report (in Chinese) preview: [here](../files/undergraduate-research-pro
 
 ## 2. Positivity-preserving conservative low rank methods for Vlasov dynamics
 
-Supervisor: Prof. [Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/)
+Supervisor: [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/)
 
 June 2022 --- August 2022, Purdue University (online)
 
 The high-dimensionality of Vlasov dynamics makes it expenive to solve by traditional numerical methods. Utilizing the low-rank structure of the solution, people have developed cost-efficient methods using low-rank matrix/tensor approximation. However, very often a low-rank approximation of a given non-negative matrix (which corresponds to the solution) can have negative elements which results in non-physical solutions. In this research, our goal is to develop a cost-efficient positivity-preserving conservative low-rank method to solve this problem. We designed two algorithms, one is the tangent-space accelerated alternating projection algorithm, and the other is the nuclear norm optimization, both with macroscopic quantities conservation.
 
-We virtually discussed this research with Prof. [Jing-Mei QIU](https://jingmeiqiu.github.io/). Thanks for her discussion and data.
+We virtually discussed this research with [Prof. Jing-Mei QIU](https://jingmeiqiu.github.io/). Thanks for her discussion and data.
 
 <center>
     <img style = "
