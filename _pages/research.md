@@ -148,8 +148,8 @@ Numerical PDE Programming (choronological order)
 | compressible RMHD | 4-order FD-HJ + Fourier | 3D toroidal with rectangular section | uniform Cylindrical | Fortran + OpenMP |
 | compressible RMHD | 3-order FD-HJ + Fourier | 3D toroidal with circular section | uniform Cartesian (embedded) | Fortran + OpenMP + MPI |
 | compressible MHD | arbitary-degree DG (locally div-free) | 2D ractangle | arbitary Cartesian | Fortran + OpenMP + MPI |
-| Poisson (Dirichlet) | arbitary-degree FEM | 1D interval | arbitary Cartesian | Matlab |
-| Poisson (purely Neumann) | arbitary-degree FEM + L-multiplier | 1D interval | arbitary Cartesian | Matlab |
-| Poisson (Dirichlet) | 1,2-degree FEM | 2D polygon | triangle | Matlab |
-| Poisson (Dirichlet) | LDG | 1D interval | arbitary Cartesian | Matlab |
-| Poisson (Dirichlet) | HDG | 1D interval | arbitary Cartesian | Matlab |
+| Poisson | arbitary-degree FEM | 1D interval | arbitary Cartesian | Matlab |
+| Poisson | 1,2-degree FEM | 2D polygon | triangular | Matlab |
+| Poisson | LDG | 1D interval | arbitary Cartesian | Matlab |
+| Poisson | HDG | 1D interval | arbitary Cartesian | Matlab |
+| Poisson | arbitary-degree MD-LDG | 2D polygon | triangular | Matlab |
