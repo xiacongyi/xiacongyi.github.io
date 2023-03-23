@@ -31,6 +31,7 @@ Links
 * Warming Math Magazine (USTC Math Department): [Warming](http://staff.ustc.edu.cn/~mathsu01/pu/waming.html)
 * AcademicPages (template for this website): [academicpages](https://github.com/academicpages/)
 * VSCode portable: [VSCode portable](https://code.visualstudio.com/docs/editor/portable)
+* [How to use `ifort` + `IntelMPI`/`coarray` on Windows or Linux clusters](https://blog.csdn.net/PilotJohnWu/article/details/121064266)
 
 
 Pictures
