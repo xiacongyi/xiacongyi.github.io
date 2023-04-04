@@ -83,12 +83,12 @@ author:
   name             : "Congyi Xia 夏从義"
   avatar           : "profile.png"
   bio              : "Undergraduate at Harbin Engineering University"
-  location         : "Rm. 508, Bldg. 2,<br>&emsp;&nbsp; USTC Mid Camp.,<br>&emsp;&nbsp; 373 Huangshan Rd.,<br>&emsp;&nbsp; Hefei, Anhui, China, 230022"
+  location         : "No. 145, Nantong Street, Nangang District, Harbin, Heilongjiang Province, 150001"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=FE3F8XMAAAAJ&hl=zh-CN"
   email            : "xia_congyi@outlook.com"
-  researchgate     : "https://researchgate.net/profile/Yue-Wu-226"
+  researchgate     : #"https://researchgate.net/profile/Yue-Wu-226"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"yuewu2002"
+  twitter          : "balala2023"
   vine             :
   weibo            :
   xing             :
