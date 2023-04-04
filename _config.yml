@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yue WU 吴越"
+title                    : "Congyi Xia 夏从義"
 title_separator          : "-"
-name                     : &name "Yue WU 吴越"
+name                     : &name "Congyi Xia 夏从義"
 description              : &description "personal description"
-url                      : https://yuewu2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiacongyi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YueWu2002/YueWu2002.github.io"
+repository               : "xiacongyi/xiacongyi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : yuewu2002
+  username               : balala2023
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yue WU 吴越"
+  name             : "Congyi Xia 夏从義"
   avatar           : "profile.png"
-  bio              : "Undergraduate at University of Science and Technology of China (USTC)"
+  bio              : "Undergraduate at Harbin Engineering University"
   location         : "Rm. 508, Bldg. 2,<br>&emsp;&nbsp; USTC Mid Camp.,<br>&emsp;&nbsp; 373 Huangshan Rd.,<br>&emsp;&nbsp; Hefei, Anhui, China, 230022"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "pilotjohnwu@mail.ustc.edu.cn"
+  email            : "xia_congyi@outlook.com"
   researchgate     : "https://researchgate.net/profile/Yue-Wu-226"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YueWu2002"
+  github           : "xiacongyi"
   google_plus      :
   keybase          :
   instagram        :
