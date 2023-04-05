@@ -19,11 +19,6 @@ Short Bio
 
 I am **Congyi Xia (夏从義)**, a fourth-year undergraduate student at the [College of Nuclear Science and Technologe](http://cnst.hrbeu.edu.cn/), [Harbin Engineering University (HEU)](http://www.hrbeu.edu.cn/).
 
-My primary research interest is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO methods, discontinuous Galerkin methods and spectral methods. See my programming experience [here](/research_red/).
-
-I joined the research group lead by [Prof. Mengping ZHANG](https://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=860) and [Prof. Yan JIANG](http://staff.ustc.edu.cn/~jiangy/index.html) in 2021 and conducted my *Undergraduate Research Program*. In the summer of 2022, I worked on a small project under the supervision of [Prof. Xiangxiong ZHANG](https://www.math.purdue.edu/~zhan1966/index.html). Currently I am conducting my graduation project on DG methods for the p-Laplacian equation under the supervision of [Prof. Yan XU](https://faculty.ustc.edu.cn/yxu).
-
-During the 2022 spring semester, I served as a teaching assitant in *Computational Methods B*.
 
 Education
 ===
