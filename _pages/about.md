@@ -17,7 +17,7 @@ Current
 Short Bio
 ===
 
-I am **Yue WU (吴越)**, a fourth-year undergraduate student at the [School of the Gifted Young](http://en.scgy.ustc.edu.cn/), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/), majoring in Information & Computational Science (2019 fall --- 2022 summer GPA: 3.98/4.3, rank: 1st in the major). I grew up in Wuxi, Jiangsu in eastern China.
+I am **Congyi Xia (夏从義)**, a fourth-year undergraduate student at the [College of Nuclear Science and Technologe](http://cnst.hrbeu.edu.cn/), [Harbin Engineering University (HEU)](http://www.hrbeu.edu.cn/).
 
 My primary research interest is analysis, development and implementation of high-order numerical methods for PDEs, including finite difference/volume WENO methods, discontinuous Galerkin methods and spectral methods. See my programming experience [here](/research_red/).
 
@@ -28,8 +28,8 @@ During the 2022 spring semester, I served as a teaching assitant in *Computation
 Education
 ===
 
-* Sept. 2019 --- June 2023: B.Sc. in Information & Computational Science, School of the Gifted Young, University of Science and Technology of China (expected)
-* Sept. 2017 --- June 2020: High School, Wuxi No.1 High School
+* Sept. 2019 --- June 2023: B.Eng. in Nuclear Engineering & Technology, College of Nuclear Science and Technology, Harbin Engineering University (expected)
+* Sept. 2016 --- June 2019: High School, Xiangyang No.5 High School
 
 Honors and Awards
 ===
