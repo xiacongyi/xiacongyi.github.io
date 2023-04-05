@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : balala2023
 facebook:
-  username               :
+  username               : Congyi Xia
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -83,10 +83,10 @@ author:
   name             : "Congyi Xia 夏从義"
   avatar           : "profile.png"
   bio              : "Undergraduate at Harbin Engineering University"
-  location         : "No. 145, Nantong Street, Nangang District, Harbin, Heilongjiang Province, 150001"
+  location         : "No. 145, Nantong Street,<br>&emsp;&nbsp; Nangang District, Harbin,,<br>&emsp;&nbsp; Heilongjiang Province, 150001"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=FE3F8XMAAAAJ&hl=zh-CN"
+  googlescholar    : #"https://scholar.google.com.hk/citations?user=FE3F8XMAAAAJ&hl=zh-CN"
   email            : "xia_congyi@outlook.com"
   researchgate     : #"https://researchgate.net/profile/Yue-Wu-226"
   uri              :
