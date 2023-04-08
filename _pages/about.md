@@ -17,7 +17,7 @@ Current
 Short Bio
 ===
 
-I am **Congyi Xia (夏从義)**, a fourth-year undergraduate student at the [College of Nuclear Science and Technologe](http://cnst.hrbeu.edu.cn/), [Harbin Engineering University (HEU)](http://www.hrbeu.edu.cn/).
+I am **Congyi Xia**, a fourth-year undergraduate student at the [College of Nuclear Science and Technologe](http://cnst.hrbeu.edu.cn/), [Harbin Engineering University (HEU)](http://www.hrbeu.edu.cn/).
 
 
 Education
