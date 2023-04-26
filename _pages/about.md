@@ -30,7 +30,8 @@ Education
 Science & Technology Achievements
 ===
 
-1. Development of software for reconfiguration and simulation of porous materials (_National-level Student Innovation Training Program, 2021-2023_)
+🎖️ Development of software for reconfiguration and simulation of porous materials (*National-level Student Innovation Training Program*, 2022-2023)
+
 
 ---
 
