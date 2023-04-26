@@ -23,8 +23,8 @@ I am ***Congyi Xia***, a fourth-year undergraduate student at the [*College of N
 Education
 ===
 
-* 2019.09 --- 2023.06: B.Eng. in Nuclear Engineering & Technology, College of Nuclear Science and Technology, Harbin Engineering University (expected)
-* 2016.09 --- 2019.06: High School, Xiangyang No.5 High School
+* 2019.09 --- 2023.06: B.Eng. in Nuclear Engineering & Technology, Harbin Engineering University (expected)
+* 2016.09 --- 2019.06: Xiangyang No.5 High School
 
 
 Science & Technology Achievements
