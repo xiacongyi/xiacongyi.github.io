@@ -26,23 +26,14 @@ Education
 * Sept. 2019 --- June 2023: B.Eng. in Nuclear Engineering & Technology, College of Nuclear Science and Technology, Harbin Engineering University (expected)
 * Sept. 2016 --- June 2019: High School, Xiangyang No.5 High School
 
-Honors and Awards
+
+Science & Technology Achievements
 ===
 
-1. 
-
-
-Activities
-===
-
-* 
-
-
-Standardized Tests
-===
-
-* 
+1. Development of software for reconfiguration and simulation of porous materials (_National-level Student Innovation Training Program, 2021-2023_)
 
 ---
+
+Last modifid at: 2023/04/27
 
 <a href="https://info.flagcounter.com/xPz9"><img src="https://s01.flagcounter.com/map/xPz9/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
