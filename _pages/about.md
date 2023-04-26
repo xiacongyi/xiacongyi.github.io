@@ -23,14 +23,14 @@ I am ***Congyi Xia***, a fourth-year undergraduate student at the [*College of N
 Education
 ===
 
-* Sept. 2019 --- June 2023: B.Eng. in Nuclear Engineering & Technology, College of Nuclear Science and Technology, Harbin Engineering University (expected)
-* Sept. 2016 --- June 2019: High School, Xiangyang No.5 High School
+* 2019.09 --- 2023.06: B.Eng. in Nuclear Engineering & Technology, College of Nuclear Science and Technology, Harbin Engineering University (expected)
+* 2016.09 --- 2019.06: High School, Xiangyang No.5 High School
 
 
 Science & Technology Achievements
 ===
 
-🎖️   Development of software for reconfiguration and simulation of porous materials (*National-level Student Innovation Training Program*, 2022-2023)
+1. 🎖️ Development of software for reconfiguration and simulation of porous materials (*National-level Student Innovation Training Program*, 2022-2023)
 
 
 ---
