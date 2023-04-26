@@ -11,13 +11,13 @@ redirect_from:
 Current
 ===
 
-*I am about to enter the School of Nuclear Science and Technology of Xi'an Jiaotong University to pursue a master's degree.*
+I am about to enter *Xi'an Jiaotong University* to pursue a master's degree.
 
 
 Short Bio
 ===
 
-I am **Congyi Xia**, a fourth-year undergraduate student at the [College of Nuclear Science and Technologe](http://cnst.hrbeu.edu.cn/), [Harbin Engineering University (HEU)](http://www.hrbeu.edu.cn/).
+I am ***Congyi Xia***, a fourth-year undergraduate student at the [*College of Nuclear Science and Technologe*](http://cnst.hrbeu.edu.cn/), [*Harbin Engineering University* (HEU)](http://www.hrbeu.edu.cn/).
 
 
 Education
