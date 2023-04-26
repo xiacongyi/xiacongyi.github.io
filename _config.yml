@@ -202,7 +202,6 @@ defaults:
       comments: true
       share: true
       related: true
-      show_data: true
   # _pages
   - scope:
       path: ""
@@ -210,6 +209,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_data: true
+      date_format: "%Y-%m-%d"
   # _teaching
   - scope:
       path: ""
