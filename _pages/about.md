@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Current
-===
-
-I am about to enter *Xi'an Jiaotong University* to pursue a master's degree.
-
 
 Short Bio
 ===
