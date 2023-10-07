@@ -17,7 +17,7 @@ I am about to enter *Xi'an Jiaotong University* to pursue a master's degree.
 Short Bio
 ===
 
-I am ***Congyi Xia***, a graduate student at the [*School of Energy and Power Engineering*](http://epe.xjtu.edu.cn/), [*Xi'An Jiaotong University* (XJTU)](http://www.xjtu.edu.cn/).
+I am ***Congyi Xia***, a graduate student at the [*School of Energy and Power Engineering*](http://epe.xjtu.edu.cn/), [*Xi'an Jiaotong University* (XJTU)](http://www.xjtu.edu.cn/).
 
 
 Education
