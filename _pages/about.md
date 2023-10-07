@@ -17,7 +17,7 @@ I am about to enter *Xi'an Jiaotong University* to pursue a master's degree.
 Short Bio
 ===
 
-I am ***Congyi Xia***, a fourth-year undergraduate student at the [*College of Nuclear Science and Technologe*](http://cnst.hrbeu.edu.cn/), [*Harbin Engineering University* (HEU)](http://www.hrbeu.edu.cn/).
+I am ***Congyi Xia***, a graduate student at the [*School of Energy and Power Engineering*](http://epe.xjtu.edu.cn/), [*Xi'An Jiaotong University* (XJTU)](http://www.xjtu.edu.cn/).
 
 
 Education
@@ -31,10 +31,10 @@ Science & Technology Achievements
 ===
 
 1. 🎖️ Development of software for reconfiguration and simulation of porous materials (*National-level Student Innovation Training Program*, 2022-2023)
-
+2. 🎓🏅🏆 [Prediction of heat transfer coefficients for steam condensation in the presence of air based on ANN method](https://doi.org/10.1016/j.jandt.2023.07.001). International Journal of Advanced Nuclear Reactor Design and Technology, 2023, 5(2): 77-85.
 
 ---
 
-Last modifid at: 2023/06/27
+Last modifid at: 2023/10/07
 
 <a href="https://info.flagcounter.com/xPz9"><img src="https://s01.flagcounter.com/map/xPz9/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
