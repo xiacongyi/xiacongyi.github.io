@@ -12,7 +12,7 @@ redirect_from:
 Short Bio
 ===
 
-I am ***Congyi Xia***, a graduate student at the [*School of Energy and Power Engineering*](http://epe.xjtu.edu.cn/), [*Xi'an Jiaotong University* (XJTU)](http://www.xjtu.edu.cn/).
+A graduate student at the [*School of Energy and Power Engineering*](http://epe.xjtu.edu.cn/), [*Xi'an Jiaotong University* (XJTU)](http://www.xjtu.edu.cn/).
 
 
 Education
