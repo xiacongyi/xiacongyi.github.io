@@ -25,9 +25,9 @@ Education
 Science & Technology Achievements
 ===
 
-1. 🥈 Development of software for reconfiguration and simulation of porous materials (*National-level Student Innovation Training Program*, 2022-2023)
-2. 🥉 [Prediction of heat transfer coefficients for steam condensation in the presence of air based on ANN method](https://doi.org/10.1016/j.jandt.2023.07.001). International Journal of Advanced Nuclear Reactor Design and Technology, 2023, 5(2): 77-85.
+1. Development of software for reconfiguration and simulation of porous materials (*National-level Student Innovation Training Program*, 2022-2023)
+2. [Prediction of heat transfer coefficients for steam condensation in the presence of air based on ANN method](https://doi.org/10.1016/j.jandt.2023.07.001). International Journal of Advanced Nuclear Reactor Design and Technology, 2023, 5(2): 77-85.
 
 ---
 
-Last modifid at: 2023/10/07
+Last modifid at: 2024/03/26
