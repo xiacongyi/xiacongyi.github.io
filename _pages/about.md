@@ -9,23 +9,23 @@ redirect_from:
 ---
 
 
-Short Bio
+简介
 ===
 
-A graduate student at the [*School of Energy and Power Engineering*](http://epe.xjtu.edu.cn/), [*Xi'an Jiaotong University* (XJTU)](http://www.xjtu.edu.cn/).
+一名研究生，就读于[*西安交通大学*](http://www.xjtu.edu.cn/), [*能源与动力工程学院*](http://epe.xjtu.edu.cn/).
 
 
-Education
+教育背景
 ===
 
-* 2019.09 --- 2023.06: B.Eng. Harbin Engineering University, Nuclear Engineering
-* 2016.09 --- 2019.06: Xiangyang No.5 High School
+* 2019.09 --- 2023.06: 哈尔滨工程大学, 核工程与核技术, 工学学士
+* 2016.09 --- 2019.06: 襄阳五中
 
 
-Science & Technology Achievements
+科研成果
 ===
 
-1. Development of software for reconfiguration and simulation of porous materials (*National-level Student Innovation Training Program*, 2022-2023)
+1. 面向多孔材料重构及仿真计算软件的开发 (*国家级大学生创新训练项目*, 2022-2023)
 2. [Prediction of heat transfer coefficients for steam condensation in the presence of air based on ANN method](https://doi.org/10.1016/j.jandt.2023.07.001). International Journal of Advanced Nuclear Reactor Design and Technology, 2023, 5(2): 77-85.
 
 ---
