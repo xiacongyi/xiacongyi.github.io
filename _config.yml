@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Welcome to Congyi Xia's homepage"
+title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Congyi Xia"
 description              : &description "personal description"
