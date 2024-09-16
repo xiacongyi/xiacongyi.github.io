@@ -84,7 +84,7 @@ author:
   avatar           : "" #"profile.png"
   bio              : "西安交通大学"
   location         : "中国西部科技创新港,<br>&emsp;&nbsp; 陕西, 西安, 710049"
-  organization     :
+  links            :
       - label: "西安交通大学"
         icon : "fa-solid fa-landmark"
   employer         :
