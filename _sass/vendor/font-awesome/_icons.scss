@@ -675,7 +675,7 @@ readers do not read off random characters that represent icons */
 .#{$fa-css-prefix}-list-alt:before { content: fa-content($fa-var-list-alt); }
 .#{$fa-css-prefix}-list-ol:before { content: fa-content($fa-var-list-ol); }
 .#{$fa-css-prefix}-list-ul:before { content: fa-content($fa-var-list-ul); }
-.#{$fa-css-prefix}-location-arrow:before { content: fa-content($fa-var-location-arrow); }
+.#{$fa-css-prefix}-location-arrow:before { content: fa-content($fa-solid fa-location-dot); }
 .#{$fa-css-prefix}-lock:before { content: fa-content($fa-var-lock); }
 .#{$fa-css-prefix}-lock-open:before { content: fa-content($fa-var-lock-open); }
 .#{$fa-css-prefix}-long-arrow-alt-down:before { content: fa-content($fa-var-long-arrow-alt-down); }
