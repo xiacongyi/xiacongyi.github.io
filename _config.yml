@@ -88,6 +88,8 @@ author:
       - label: "西安交通大学"
         icon : "fa-solid fa-landmark"
   employer         :
+        - label: "西安交通大学"
+          icon : "fa-solid fa-landmark"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com.hk/citations?user=FE3F8XMAAAAJ&hl=zh-CN"
   email            : "xia_congyi@outlook.com"
