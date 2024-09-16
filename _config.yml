@@ -85,11 +85,10 @@ author:
   bio              : "西安交通大学"
   location         : "中国西部科技创新港,<br>&emsp;&nbsp; 陕西, 西安, 710049"
   links            :
-      - label: "西安交通大学"
-        icon : "fa-solid fa-landmark"
+    - label: "西安交通大学"
+      icon : "fa-solid fa-landmark"
+      url  : "https://mademistakes.com"
   employer         :
-        - label: "西安交通大学"
-          icon : "fa-solid fa-landmark"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com.hk/citations?user=FE3F8XMAAAAJ&hl=zh-CN"
   email            : "xia_congyi@outlook.com"
