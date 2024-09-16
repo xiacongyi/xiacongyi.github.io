@@ -84,24 +84,24 @@ author:
   avatar           : "" #"profile.png"
   bio              : "西安交通大学研究生"
   location         : "中国西部科技创新港,<br>&emsp;&nbsp; 陕西, 西安, 710049"
-  employer         : "西安交通大学"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com.hk/citations?user=FE3F8XMAAAAJ&hl=zh-CN"
   email            : "xia_congyi@outlook.com"
   researchgate     : #"https://researchgate.net/profile/Yue-Wu-226"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : 
-  foursquare       :
+  uri              : "1"
+  bitbucket        : "2"
+  codepen          : "3"
+  dribbble         : "4"
+  flickr           : "5"
+  facebook         :
+  foursquare       : "6"
   github           : "xiacongyi"
   google_plus      :
-  keybase          :
-  instagram        :
+  keybase          : "7"
+  instagram        : "8"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : "9"
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
